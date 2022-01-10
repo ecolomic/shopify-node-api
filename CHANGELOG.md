@@ -7,6 +7,10 @@ and adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
 
+### Added
+
+- Added `January22` to `ApiVersion`. [#]()
+
 ## [2.0.0] - 2021-10-28
 
 ### Added
